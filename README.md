@@ -12,6 +12,7 @@ I absolutely adore Theoretical CS and Math.
 
 ## What I'm Building Right Now
 * A top-10 SWE-bench coding agent
+* A blog series on making code blazingly fast
 
 ## Things I Want to Explore Soon
 * **Automated theorem proving** - make one myself for 0th or 1st order logic
