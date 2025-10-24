@@ -1,4 +1,4 @@
-# Hi there!
+# Hi
 
 I'm skilled at systems-level programming and making Gen-AI based apps.
 
@@ -21,6 +21,4 @@ I absolutely adore Theoretical CS and Math.
 * **Video explainer on Group Theory and Rubik's Cubes** - how Kociemba's algorithm uses group theory. Basically make the best explainer on this topic available on the internet
 * **Supplement my existing 2×2 cube solver** with different 3×3 solvers - one implementing Kociemba, one implementing a neural net to solve a cube
 
----
 
-Feel free to explore my repositories and reach out if you want to collaborate!
