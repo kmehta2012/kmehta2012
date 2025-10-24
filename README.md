@@ -1,4 +1,4 @@
-# Hi
+# Hi!
 
 I'm skilled at systems-level programming and making Gen-AI based apps.
 
