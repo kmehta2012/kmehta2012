@@ -16,7 +16,7 @@ I absolutely adore Theoretical CS and Math.
 
 ## Things I Want to Explore Soon
 * **Automated theorem proving** - make one myself for 0th or 1st order logic
-* **Training a NN for solving math** - hopefully replicate the recent IMO gold results by several labs
+* **Training a NN for solving math** - hopefully replicate the methodology used by the recent IMO gold medal architectures. 
 * **RL and "solving" games** - replicating what DeepMind did
 * **Video explainer on Group Theory and Rubik's Cubes** - how Kociemba's algorithm uses group theory. Basically make the best explainer on this topic available on the internet
 * **Supplement my existing 2×2 cube solver** with different 3×3 solvers - one implementing Kociemba, one implementing a neural net to solve a cube
