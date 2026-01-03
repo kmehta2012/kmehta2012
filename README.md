@@ -11,7 +11,7 @@ Currently trying to get into rigorous Machine Learning, trying to become a god a
 I absolutely adore Theoretical CS and Math.
 
 ## What I'm Building Right Now
-* A top-10 SWE-bench coding agent
+* Trying to beat NumPy matmul performance on a m-series macbook
 * A blog series on making code blazingly fast
 
 ## Things I Want to Explore Soon
