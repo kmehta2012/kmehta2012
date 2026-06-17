@@ -1,24 +1,16 @@
 # Hi!
 
-I'm skilled at systems-level programming and making Gen-AI based apps.
-
-**C is my favorite programming language.** I've built explicit memory allocators and high-performance HTTP servers from scratch in it.
-
-Experienced in building RAGs and agentic architectures using tools like LangGraph, Smolagents, and Transformers.
-
-Currently trying to get into rigorous Machine Learning, trying to become a god at it, and hopefully be good enough one day to work at the frontier.
-
-I absolutely adore Theoretical CS and Math.
+I'm skilled at systems-level programming and AI Engineering.
 
 ## What I'm Building Right Now
-* Trying to beat NumPy matmul performance on a m-series macbook
-* A blog series on making code blazingly fast
+* Summer of Math Exposition entry on what it means to formalize math
+* AI Agents for GovCon at Ekasys
 
 ## Things I Want to Explore Soon
 * **Automated theorem proving** - make one myself for 0th or 1st order logic
-* **Training a NN for solving math** - hopefully replicate the methodology used by the recent IMO gold medal architectures. 
+* **Training a NN for solving math**
 * **RL and "solving" games** - replicating what DeepMind did
-* **Video explainer on Group Theory and Rubik's Cubes** - how Kociemba's algorithm uses group theory. Basically make the best explainer on this topic available on the internet
+* **Video explainer on Group Theory and Rubik's Cubes** - how Kociemba's algorithm uses group theory. Make the best explainer on this topic available on the internet
 * **Supplement my existing 2×2 cube solver** with different 3×3 solvers - one implementing Kociemba, one implementing a neural net to solve a cube
 
 
