@@ -3,7 +3,7 @@
 I'm skilled at systems-level programming and AI Engineering.
 
 ## What I'm Building Right Now
-* Summer of Math Exposition entry on what it means to formalize math
+* Summer of Math Exposition entry on randomized algs
 * AI Agents for GovCon at Ekasys
 
 ## Things I Want to Explore Soon
