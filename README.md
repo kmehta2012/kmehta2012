@@ -3,7 +3,7 @@
 I'm skilled at systems-level programming and AI Engineering.
 
 ## What I'm Building Right Now
-- [x] Summer of Math Exposition entry on randomized algs — Done. Check it out: https://kmehta2012.github.io/Randomized-Algs-Explainer/
+- [x] Summer of Math Exposition entry on randomized algs. Done, check it out: https://kmehta2012.github.io/Randomized-Algs-Explainer/
 - [ ] AI Agents for GovCon at Ekasys
 
 ## Things I Want to Explore Soon
