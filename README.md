@@ -1,6 +1,6 @@
 # Hi!
 
-I'm interested in CS theory (Graph Algorithms, Randomized Algorithms, Computational Complexity, Computability Theory), mathematical logic, and Machine Learning. I enjoy making explainers on topics of interest and hope to make more projects and explainers soon. Until recently, I was working as an AI Engineer, making AI agents for Government Contracting (provyst.ai) 
+I'm interested in CS theory (Graph Algorithms, Randomized Algorithms, Computational Complexity, Computability Theory), mathematical logic, and Machine Learning. I enjoy making explainers on topics of interest and hope to make more projects and explainers soon. Until recently, I was working as an AI Engineer, making AI agents for Government Contracting 
 
 ## Things I Want to Explore (some of which I'm currently working on!)
 * Post training a small language model to be better at Math
