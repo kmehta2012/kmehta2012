@@ -9,5 +9,5 @@ I'm interested in CS theory (Graph Algorithms, Randomized Algorithms, Computatio
 * Make an arduino based robot that solves a rubik's cube using Koecembia. Benchmark how good existing SOTA llms are at solving the cube even at the worst of depths. (I hope they suck at this so that I can sleep knowing I at least have one thing on them lol)
 
 ## Relevant work
-* My Explainer on Randomized Algorithms for Summer of Math Exposition 5: https://kmehta2012.github.io/Randomized-Algs-Explainer/
+* My Explainer on Randomized Algorithms for Summer of Math Exposition 5 (finished 11/44 non-video entries and top 25% overall): https://kmehta2012.github.io/Randomized-Algs-Explainer/
 * Optimal 2 by 2 rubiks cube solver: https://github.com/kmehta2012/2-by-2-GodsAlgorithm
